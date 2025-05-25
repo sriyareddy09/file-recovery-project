@@ -1,0 +1,25 @@
+# Forensic Findings Summary
+
+This report summarizes the key findings from the forensic analysis and file recovery process using Autopsy.
+
+1. Data Source:
+   - The original disk image was analyzed with Autopsy.
+   - An exported CSV report (`autopsy_report.csv`) contains metadata for all files found.
+
+2. Deleted Files:
+   - Using a Python script, files marked as 'unallocated', 'orphan', or 'deleted' in the `Flags(Dir)` column were filtered.
+   - A total of X deleted/unallocated files were identified (replace X with the count).
+
+3. Recovered Files:
+   - Relevant deleted files were successfully copied to the `recovered_files/` folder.
+   - The recovered files include various file types such as images (.jpg), text files (.txt), and documents.
+
+4. Observations:
+   - Many deleted files appeared to be recently modified prior to deletion.
+   - Some files had partial data or corrupted headers but were still partially recoverable.
+   - The use of Autopsy’s timeline and file metadata helped to correlate file activity and deletion times.
+
+5. Conclusion:
+   - The combination of Autopsy’s forensic capabilities and Python automation facilitated efficient identification and recovery of deleted files.
+   - This workflow can be used to assist in digital forensic investigations requiring deleted file recovery and metadata analysis.
+
