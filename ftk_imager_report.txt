@@ -1,0 +1,47 @@
+﻿Created By Exterro® FTK® Imager 4.7.3.81 
+
+Case Information: 
+Acquired using: ADI4.7.3.81
+Case Number: 1
+Evidence Number: 1
+Unique description: This is for Educational purposes only
+Examiner: Sneha Sriya Reddy Ch
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\rituc\OneDrive\Desktop\Evidence\drive_image:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 1,904
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 30,595,072
+[Physical Drive Information]
+ Drive Model: SanDisk Cruzer Blade USB Device
+ Drive Serial Number: 4C530001170118119442
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 14939 MB
+ Sector count:    30595072
+[Computed Hashes]
+ MD5 checksum:    fff86025a9dcb3bb5d89cc455359a09f
+ SHA1 checksum:   2e5355ccc456c34a6036612a4b7452be7daf698f
+
+Image Information:
+ Acquisition started:   Sun May 25 13:48:27 2025
+ Acquisition finished:  Sun May 25 13:55:57 2025
+ Segment list:
+  C:\Users\rituc\OneDrive\Desktop\Evidence\drive_image.001
+ COMPUTED HASH :  fff86025a9dcb3bb5d89cc455359a09f
+ COMPUTED HASH :  2e5355ccc456c34a6036612a4b7452be7daf698f
+
+Image Verification Results:
+ Verification started:  Sun May 25 13:55:57 2025
+ Verification finished: Sun May 25 13:58:06 2025
+ MD5 checksum:    fff86025a9dcb3bb5d89cc455359a09f : verified
+ SHA1 checksum:   2e5355ccc456c34a6036612a4b7452be7daf698f : verified
