@@ -4,7 +4,7 @@ This report summarizes the key findings from the forensic analysis and file reco
 
 1. Data Source:
    - The original disk image was analyzed with Autopsy.
-   - An exported CSV report (`autopsy_report.csv`) contains metadata for all files found.
+   - An exported CSV report (`testfolder_report.csv`) contains metadata for all files found.
 
 2. Deleted Files:
    - Using a Python script, files marked as 'unallocated', 'orphan', or 'deleted' in the `Flags(Dir)` column were filtered.
