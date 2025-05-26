@@ -11,7 +11,7 @@ This project demonstrates recovering deleted files and filtering them from a for
 
 ## Project Structure
 
-├── recover_deleted.py
+├── filter_deleted_files.py
 ├── ftk_imager_report.txt
 ├── autopsy_report.xlsx
 ├── recovered_files/
