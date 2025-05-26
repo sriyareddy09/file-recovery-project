@@ -4,7 +4,7 @@
 This project demonstrates recovering deleted files and filtering them from a forensic disk image using Autopsy, FTK Imager and Python.
 
 - A disk image of the evidence is made using FTK Imager in raw format (.dd)
-- Autopsy was used to analyze the disk image and generate a comprehensive CSV report (`autopsy_report.csv`) containing metadata about all files, including deleted ones.
+- Autopsy was used to analyze the disk image and generate a comprehensive CSV report (`testfolder_report.csv`) containing metadata about all files, including deleted ones.
 - A Python script (`filter_deleted_files.py`) filters the CSV to identify deleted/unallocated files based on `Flags(Dir)`.
 - The identified files were manually or programmatically recovered and stored in the `recovered_files/` directory.
 - Screenshots documenting the steps in Autopsy are included in the `screenshots/` folder.
@@ -13,7 +13,7 @@ This project demonstrates recovering deleted files and filtering them from a for
 
 ├── filter_deleted_files.py
 ├── ftk_imager_report.txt
-├── autopsy_report.xlsx
+├── autopsy_report/
 ├── recovered_files/
 ├── screenshots/
 ├── forensic_findings.txt
