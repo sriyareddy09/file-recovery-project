@@ -12,7 +12,7 @@ This report summarizes the key findings from the forensic analysis and file reco
 
 3. Recovered Files:
    - Relevant deleted files were successfully copied to the `recovered_files/` folder.
-   - The recovered files include various file types such as images (.jpg), text files (.txt), and documents.
+   - The recovered files include various file types such as images, text files (.txt), and documents.
 
 4. Observations:
    - Many deleted files appeared to be recently modified prior to deletion.
